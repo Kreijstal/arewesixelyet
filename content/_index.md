@@ -359,9 +359,12 @@ Open issue: https://github.com/microsoft/terminal/issues/448.
 
 # xfce-terminal
 
-{{< supported >}}
+{{< unsupported >}} 
 
-From commit [493a7a5](https://gitlab.xfce.org/apps/xfce4-terminal/-/commit/493a7a54b437df9419847b29fe94eae671816c09) onwards.
+
+From commit [493a7a5](https://gitlab.xfce.org/apps/xfce4-
+terminal/-/commit/493a7a54b437df9419847b29fe94eae671816c09) onwards.
+However VTE support upstream was removed. 
 
 ---
 
